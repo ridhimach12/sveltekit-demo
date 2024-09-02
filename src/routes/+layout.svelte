@@ -8,4 +8,3 @@ import"../app.css"
 <Navbar />
 
 <slot />
-<Footer />
